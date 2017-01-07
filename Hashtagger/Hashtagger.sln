@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.25914.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtagger", "Hashtagger\Hashtagger.csproj", "{84D2C72C-514D-45C4-87E6-F92F3C58FC90}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{C41392B1-B886-4A64-B22B-24ADAD58BFFD}"
+	ProjectSection(SolutionItems) = preProject
+		Project Brief.md = Project Brief.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
